@@ -1,0 +1,89 @@
+.countener{
+	border: 3px solid black;
+	height: 550px;
+	width:900px;
+	position:relative;
+}
+
+.countener .title p{
+	border: 3px solid black ;
+	position:relative;
+	height:20px;
+	width: 928px;
+	bottom:19px;
+	right: 3px;
+	text-align: center;
+	background-color: #FFC107;
+}
+.countener .one {
+	border: 3px solid black ;
+	position:relative;
+	height:500px;
+	width:200px;
+	right: 3px;
+	bottom:38px;
+	background-color: white;
+	text-align: justify;
+	padding:15px;
+}
+.countener .one h3{
+	text-align: center;
+}
+.countener .two h3{
+	text-align: center;
+}
+.countener .three h3{
+	text-align: center;
+}
+
+.countener .two {
+	border: 3px solid black ;
+	position:relative;
+	height:470px;
+	width:300px;
+	left:230px;
+	bottom:574px;
+	background-color: white;
+	text-align: justify;
+	padding:30px;
+}
+.countener .three{
+	border: 3px solid black ;
+	position:relative;
+	height:470px;
+	width:275px;
+	left:590px;
+	bottom:1110px;
+	background-color: white;
+	text-align: justify;
+	padding:30px;
+}
+.countener .foot p{
+	border: 3px solid black ;
+	position:relative;
+	height:20px;
+	width:929px;
+	left:-3px;
+	bottom:1128px;	
+	text-align:center;
+	background-color:#FFC107;
+}
+
+.countener .one img{
+height:200px;
+width:230px;
+position: relative;
+top:70px;
+right: 15px;
+
+}
+
+.countener .three img{
+	height:250px;
+width:250px;
+position: relative;
+top:50px;
+max-width: auto;
+max-height: auto;
+
+}
